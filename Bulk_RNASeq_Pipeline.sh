@@ -7,7 +7,7 @@
 # Software Versions:	SRA Toolkit 3.1.1, STAR 2.7.10a, samtools 1.13, and featureCounts v2.0.3 
 # Prerequisites:	Make sure all of the softwares except SRA Toolkit are installed and on the PATH
 
-echo "Starting BulkRNA Sequencing Pipeline by Michael "MikedeKokkie" de Kok, for more information please reach out through our GitHub: https://github.com/MicroscopyCytometryCoreFacility/BulkRNASeq"
+echo "Starting BulkRNA Sequencing Pipeline by Michael 'MikedeKokkie' de Kok, for more information please reach out through our GitHub: https://github.com/MicroscopyCytometryCoreFacility/BulkRNASeq"
 
 # -------------- GENERAL PARAMETERS --------------
 
